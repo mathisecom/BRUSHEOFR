@@ -342,17 +342,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating_BEXH7j": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_yCJnkK": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {}
-        },
         "image_gja7XC": {
           "type": "image",
           "settings": {
@@ -360,29 +349,6 @@
             "alignment": "start",
             "max_width": 500
           }
-        },
-        "description_G6FzWM": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_YqzhwW": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_Y4MeTi": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_L6EQy9": {
           "type": "buy_buttons",
@@ -408,12 +374,7 @@
         "title_AiUVaD",
         "badges_bWznj8",
         "price_zcWRmC",
-        "rating_BEXH7j",
-        "separator_yCJnkK",
         "image_gja7XC",
-        "description_G6FzWM",
-        "variant_picker_YqzhwW",
-        "quantity_selector_Y4MeTi",
         "buy_buttons_L6EQy9",
         "image_CE6DUh"
       ],
