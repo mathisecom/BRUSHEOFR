@@ -136,6 +136,21 @@
         "text_color": ""
       }
     },
+    "video_PpQ9CE": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Video-avant-apres.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_PjHaCj": {
       "type": "rich-text",
       "blocks": {
@@ -386,6 +401,7 @@
     "slideshow",
     "logo_list_CgPYbL",
     "rich_text_4LLcJX",
+    "video_PpQ9CE",
     "rich_text_PjHaCj",
     "slideshow_gNXJtr",
     "featured_product_EcAjjV",
