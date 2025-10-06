@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_BRUSHEO.webp",
+            "mobile_image": "shopify://shop_images/new_banner_brusheo_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -38,7 +40,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
