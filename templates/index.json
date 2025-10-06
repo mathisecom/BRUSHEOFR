@@ -225,7 +225,7 @@
         "item_jMq8bQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Brusheo_avis_1.jpg",
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-10-07T000158.497.jpg",
             "column_size": "3",
             "title": "Anaïs D.",
             "heading_tag": "h4",
@@ -238,6 +238,7 @@
         "item_XFR4DH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-10-07T000144.256.jpg",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -250,6 +251,7 @@
         "item_E4BYEm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9_11526d83-b1c3-4af6-a0b9-39bf1b8d630d.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -262,6 +264,7 @@
         "item_THTqFB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Ines.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -274,6 +277,7 @@
         "item_6WNViM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sarah.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -286,6 +290,7 @@
         "item_Kdx8Kf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Rebecca.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
