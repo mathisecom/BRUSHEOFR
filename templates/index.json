@@ -353,6 +353,14 @@
           "disabled": true,
           "settings": {}
         },
+        "image_gja7XC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_1.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "description_G6FzWM": {
           "type": "description",
           "settings": {
@@ -402,6 +410,7 @@
         "price_zcWRmC",
         "rating_BEXH7j",
         "separator_yCJnkK",
+        "image_gja7XC",
         "description_G6FzWM",
         "variant_picker_YqzhwW",
         "quantity_selector_Y4MeTi",
