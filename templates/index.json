@@ -116,7 +116,7 @@
         "heading_bmDnQw": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Brusheo?",
+            "text": "Résultat Avant/Après",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -125,6 +125,32 @@
       },
       "block_order": [
         "heading_bmDnQw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_PjHaCj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bCALDg": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Brusheo?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bCALDg"
       ],
       "name": "Rich text",
       "settings": {
@@ -360,6 +386,7 @@
     "slideshow",
     "logo_list_CgPYbL",
     "rich_text_4LLcJX",
+    "rich_text_PjHaCj",
     "slideshow_gNXJtr",
     "featured_product_EcAjjV",
     "faq",
