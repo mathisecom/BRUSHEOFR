@@ -51,6 +51,61 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "logo_list_CgPYbL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_PgN84i": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_WEKHYR": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_B3Ttwe": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_yaUfhK": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_PgN84i",
+        "logo_WEKHYR",
+        "logo_B3Ttwe",
+        "logo_yaUfhK"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "<h5><strong>Vu Sur :</strong></h5>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_EcAjjV": {
       "type": "featured-product",
       "blocks": {
@@ -230,6 +285,7 @@
   },
   "order": [
     "slideshow",
+    "logo_list_CgPYbL",
     "featured_product_EcAjjV",
     "faq",
     "contact_jBbEnM"
