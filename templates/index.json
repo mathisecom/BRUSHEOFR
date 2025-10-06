@@ -113,6 +113,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_CE6DUh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge_confianc_CTA.png",
+            "alignment": "center",
+            "max_width": 290
+          }
         }
       },
       "block_order": [
@@ -124,7 +132,8 @@
         "description_G6FzWM",
         "variant_picker_YqzhwW",
         "quantity_selector_Y4MeTi",
-        "buy_buttons_L6EQy9"
+        "buy_buttons_L6EQy9",
+        "image_CE6DUh"
       ],
       "name": "Featured product",
       "settings": {
