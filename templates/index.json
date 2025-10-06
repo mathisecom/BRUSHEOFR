@@ -57,6 +57,7 @@
         "logo_PgN84i": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +65,7 @@
         "logo_WEKHYR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -71,6 +73,7 @@
         "logo_B3Ttwe": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle_3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -78,6 +81,7 @@
         "logo_yaUfhK": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -133,6 +137,7 @@
         },
         "separator_yCJnkK": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description_G6FzWM": {
@@ -193,7 +198,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "brusheo-hair-pro",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
