@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Paiement 100% Sécurisé",
+            "url": ""
+          }
+        },
+        "message_UghCbf": {
+          "type": "message",
+          "settings": {
+            "text": "Garantie Satisfait ou Remboursé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_UghCbf"
       ],
       "settings": {
         "enable_sticky": false,
