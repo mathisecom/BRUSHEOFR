@@ -27,11 +27,19 @@
             "text": "Garantie Satisfait ou Remboursé",
             "url": ""
           }
+        },
+        "message_J8PKQA": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison Gratuite à Domicile",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_UghCbf"
+        "message_UghCbf",
+        "message_J8PKQA"
       ],
       "settings": {
         "enable_sticky": false,
