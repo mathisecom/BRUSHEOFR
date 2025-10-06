@@ -177,9 +177,9 @@
         "image_CE6DUh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge_confianc_CTA.png",
+            "image": "shopify://shop_images/badge_confianc_CTA_537da607-391b-4a45-8cac-65b2f6466cdd.png",
             "alignment": "center",
-            "max_width": 290
+            "max_width": 410
           }
         }
       },
