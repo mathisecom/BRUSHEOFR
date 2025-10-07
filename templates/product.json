@@ -48,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -165,13 +165,19 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_xnLkVD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -190,6 +196,12 @@
             "image": "shopify://shop_images/Trusted_by_3_000_Women_5.jpg",
             "alignment": "start",
             "max_width": 400
+          }
+        },
+        "liquid_z4JDnd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_6408bc30292758\"></div>"
           }
         },
         "image_wCptzm": {
@@ -221,9 +233,11 @@
         }
       },
       "block_order": [
+        "liquid_xnLkVD",
         "title",
         "price",
         "image_W63jCx",
+        "liquid_z4JDnd",
         "image_wCptzm",
         "buy_buttons",
         "image_TQQamn"
