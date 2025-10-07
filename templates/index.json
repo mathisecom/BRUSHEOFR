@@ -420,16 +420,24 @@
         "tab_ePQcnB": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez le Brusheo Hair PRO sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre Brusheo Hair PRO vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
             "page": ""
           }
         },
         "tab_hjcjzP": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        },
+        "tab_AmybMM": {
+          "type": "tab",
+          "settings": {
+            "title": "Charge Optimale",
+            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre Brusheo Hair Pro, nous vous recommandons de la charger en utilisant un dock de charge d'une puissance minimale de 20W (charge rapide).</p><p>L'utilisation d'un chargeur rapide permet non seulement de réduire le temps de charge, mais également d'assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu'il répond à cette exigence. Une charge adéquate contribue à maximiser l'efficacité de votre Brusheo Hair Pro et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
             "page": ""
           }
         }
@@ -437,7 +445,8 @@
       "block_order": [
         "tab_K7pAVq",
         "tab_ePQcnB",
-        "tab_hjcjzP"
+        "tab_hjcjzP",
+        "tab_AmybMM"
       ],
       "name": "Tabs",
       "settings": {
