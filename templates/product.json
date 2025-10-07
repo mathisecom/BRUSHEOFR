@@ -119,14 +119,18 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
         "price": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "image_W63jCx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Trusted_by_3_000_Women_5.jpg",
+            "alignment": "start",
+            "max_width": 400
           }
         },
         "buy_buttons": {
@@ -143,8 +147,8 @@
       },
       "block_order": [
         "title",
-        "badges",
         "price",
+        "image_W63jCx",
         "buy_buttons"
       ],
       "settings": {
