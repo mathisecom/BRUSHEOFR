@@ -23,21 +23,21 @@
             "icon_background_type": "circle",
             "icon_background": "#cab587",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Livraison Offerte",
+            "content": ""
           }
         },
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
             "icon_background": "#cab587",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Satisfait ou Remboursé",
+            "content": ""
           }
         },
         "discount": {
@@ -50,7 +50,7 @@
             "icon_background": "#cab587",
             "icon_color": "",
             "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": ""
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "circle",
             "icon_background": "#cab587",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Paiement Sécurisé",
+            "content": ""
           }
         }
       },
