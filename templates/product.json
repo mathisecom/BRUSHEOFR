@@ -117,7 +117,7 @@
         "heading_xgiPwx": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Résultat Avant/Après",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -158,7 +158,7 @@
         "heading_TMjGpF": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Pourquoi Choisir Brusheo?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
