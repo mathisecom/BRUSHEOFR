@@ -358,6 +358,12 @@
             "max_width": 500
           }
         },
+        "liquid_LWpYwb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "image_gja7XC": {
           "type": "image",
           "settings": {
@@ -399,6 +405,7 @@
         "price_zcWRmC",
         "liquid_rrQQ4i",
         "image_Aa8F3a",
+        "liquid_LWpYwb",
         "image_gja7XC",
         "buy_buttons_L6EQy9",
         "image_CE6DUh",
