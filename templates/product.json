@@ -111,6 +111,58 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_MEkaUY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xgiPwx": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xgiPwx"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_GfnmFB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TMjGpF": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TMjGpF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_BXDhW6": {
       "type": "video",
       "name": "Video",
@@ -386,7 +438,9 @@
   "order": [
     "slideshow_JcEPWt",
     "logo_list_p9mVpF",
+    "rich_text_MEkaUY",
     "video_BXDhW6",
+    "rich_text_GfnmFB",
     "slideshow_zhCX8m",
     "main",
     "tabs_ENUzaE",
