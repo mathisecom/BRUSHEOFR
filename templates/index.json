@@ -503,12 +503,20 @@
             "title": "Que faire si le Brusheo Hair PRO ne répond pas à mes attentes ?",
             "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
           }
+        },
+        "item_CkNyzw": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vous livrez dans à l'étranger ?",
+            "content": "<p>Oui, nous livrons partout dans le monde.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_CkNyzw"
       ],
       "settings": {
         "full_width": false,
