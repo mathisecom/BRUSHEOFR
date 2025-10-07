@@ -325,8 +325,8 @@
         "tab_kMyHT7": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristiques",
+            "content": "<ul><li>3 modes de températures, 160°, 180° ou 200°</li><li>Sans fil donc sans contrainte</li><li>Autonomie de 40 minutes</li><li>Chauffe en 25 secondes</li><li>Ultra légère avec un poids de 220g</li><li>Recharge via USB-C pour une utilisation facile, même en voiture</li></ul>",
             "page": ""
           }
         },
