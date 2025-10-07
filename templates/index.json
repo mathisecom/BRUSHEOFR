@@ -344,6 +344,13 @@
             "show_taxes_notice": false
           }
         },
+        "image_Aa8F3a": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "liquid_rrQQ4i": {
           "type": "liquid",
           "settings": {
@@ -382,6 +389,7 @@
         "liquid_gjbnhQ",
         "title_AiUVaD",
         "price_zcWRmC",
+        "image_Aa8F3a",
         "liquid_rrQQ4i",
         "image_gja7XC",
         "buy_buttons_L6EQy9",
