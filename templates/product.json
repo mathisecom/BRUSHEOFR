@@ -52,6 +52,65 @@
         "background_gradient": ""
       }
     },
+    "logo_list_p9mVpF": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_7KGU8K": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_qkCnmh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle_3.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jg4hEb": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Vh3hmi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_7KGU8K",
+        "logo_qkCnmh",
+        "logo_jg4hEb",
+        "logo_Vh3hmi"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "video_BXDhW6": {
       "type": "video",
       "name": "Video",
@@ -133,6 +192,14 @@
             "max_width": 400
           }
         },
+        "image_wCptzm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_1.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -143,13 +210,23 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_TQQamn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge_confianc_CTA_537da607-391b-4a45-8cac-65b2f6466cdd.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
         "title",
         "price",
         "image_W63jCx",
-        "buy_buttons"
+        "image_wCptzm",
+        "buy_buttons",
+        "image_TQQamn"
       ],
       "settings": {
         "full_width": true,
@@ -294,6 +371,7 @@
   },
   "order": [
     "slideshow_JcEPWt",
+    "logo_list_p9mVpF",
     "video_BXDhW6",
     "slideshow_zhCX8m",
     "main",
