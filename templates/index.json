@@ -406,6 +406,54 @@
         "input_text_color": ""
       }
     },
+    "tabs_padhap": {
+      "type": "tabs",
+      "blocks": {
+        "tab_K7pAVq": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li>3 modes de températures, 160°, 180° ou 200°</li><li>Sans fil donc sans contrainte</li><li>Autonomie de 40 minutes</li><li>Chauffe en 25 secondes</li><li>Ultra légère avec un poids de 220g</li><li>Recharge via USB-C pour une utilisation facile, même en voiture</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_ePQcnB": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_hjcjzP": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_K7pAVq",
+        "tab_ePQcnB",
+        "tab_hjcjzP"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -489,6 +537,7 @@
     "slideshow_gNXJtr",
     "multi_column_RJEPXV",
     "featured_product_EcAjjV",
+    "tabs_padhap",
     "faq",
     "contact_jBbEnM"
   ]
