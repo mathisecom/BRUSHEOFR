@@ -360,6 +360,7 @@
         },
         "liquid_RMC9pg": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div data-rapi-id=\"rapi_6408bc30292758\"></div>"
           }
