@@ -510,13 +510,21 @@
             "title": "Est-ce que vous livrez dans à l'étranger ?",
             "content": "<p>Oui, nous livrons partout dans le monde.</p>"
           }
+        },
+        "item_XqAbYG": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de la livraison ?",
+            "content": "<p>Le délai de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 5 jours ouvrés. Pour les destinations à l'étranger et hors France métropolitaine, le délai est de 3 à 6 jours ouvrés. Vous recevrez tous les détails de votre livraison par email.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_CkNyzw"
+        "item_CkNyzw",
+        "item_XqAbYG"
       ],
       "settings": {
         "full_width": false,
