@@ -221,6 +221,110 @@
         "background_gradient": ""
       }
     },
+    "multi_column_UnWc9E": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FzPbzL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-10-07T000158.497.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3nVknf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-10-07T000144.256.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KJpLJL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-10-07T094929.952.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zHzkxN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ines.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ibmNAX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sarah_ffea046a-f4d6-4908-9fb2-187287532b0a.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tNbwtt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Rebecca.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FzPbzL",
+        "item_3nVknf",
+        "item_KJpLJL",
+        "item_zHzkxN",
+        "item_ibmNAX",
+        "item_tNbwtt"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Featured content",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -458,6 +562,7 @@
     "video_BXDhW6",
     "rich_text_GfnmFB",
     "slideshow_zhCX8m",
+    "multi_column_UnWc9E",
     "main",
     "tabs_ENUzaE",
     "faq_qw73wM",
