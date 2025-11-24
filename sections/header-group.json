@@ -16,6 +16,7 @@
       "blocks": {
         "message_bJKnWT": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Offre Spécial D'Automne : -50% DE RÉDUCTION",
             "url": ""
