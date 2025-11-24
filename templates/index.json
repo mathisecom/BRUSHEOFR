@@ -342,6 +342,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_JGRCid": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>💦 Nettoyage facile et sans effort<br/>🌟 Prise en main simple & manche extensible<br/>⏳ Gain de temps & efficacité<br/>✅ Moteur puissant & longue autonomie</strong></p>"
+          }
+        },
         "liquid_rrQQ4i": {
           "type": "liquid",
           "settings": {
@@ -395,6 +401,7 @@
         "liquid_gjbnhQ",
         "title_AiUVaD",
         "price_zcWRmC",
+        "text_JGRCid",
         "liquid_rrQQ4i",
         "image_Aa8F3a",
         "liquid_LWpYwb",
