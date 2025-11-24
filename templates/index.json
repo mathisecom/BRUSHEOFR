@@ -210,6 +210,8 @@
         "image_Nf6Xzw": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_2_afa0fc97-9f28-48e3-b562-c29f8dab7565.jpg",
+            "mobile_image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
