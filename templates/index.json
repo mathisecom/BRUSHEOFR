@@ -140,7 +140,7 @@
         "image_zmzTrz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/OFFRE_a_DURee_LIMITee.jpg",
+            "image": "shopify://shop_images/Sous-titre_2.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
