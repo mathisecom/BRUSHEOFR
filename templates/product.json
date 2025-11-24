@@ -213,7 +213,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_3.jpg",
-            "mobile_image": "shopify://shop_images/Sous-titre_6.jpg",
+            "mobile_image": "shopify://shop_images/Sous-titre_7.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
