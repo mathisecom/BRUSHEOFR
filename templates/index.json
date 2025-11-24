@@ -114,9 +114,9 @@
         "heading_bmDnQw": {
           "type": "heading",
           "settings": {
-            "text": "Résultat Avant/Après",
+            "text": "La Différence est Évidente",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#092b48",
             "gradient": ""
           }
         }
@@ -134,19 +134,45 @@
         "text_color": ""
       }
     },
-    "video_PpQ9CE": {
-      "type": "video",
-      "name": "Video",
+    "slideshow_jkBjfw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zmzTrz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OFFRE_a_DURee_LIMITee.jpg",
+            "content_max_width": 1200,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h3",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zmzTrz"
+      ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
         "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Video-avant-apres.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
     "rich_text_PjHaCj": {
@@ -587,7 +613,7 @@
     "slideshow",
     "logo_list_CgPYbL",
     "rich_text_4LLcJX",
-    "video_PpQ9CE",
+    "slideshow_jkBjfw",
     "rich_text_PjHaCj",
     "slideshow_gNXJtr",
     "multi_column_RJEPXV",
