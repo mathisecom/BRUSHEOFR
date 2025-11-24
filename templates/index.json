@@ -184,7 +184,7 @@
           "settings": {
             "text": "Pourquoi Choisir Brusheo?",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#092b48",
             "gradient": ""
           }
         }
@@ -208,8 +208,6 @@
         "image_Nf6Xzw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Benefices_Brusheo.png",
-            "mobile_image": "shopify://shop_images/Benefices_Brusheo.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
