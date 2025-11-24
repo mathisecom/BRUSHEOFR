@@ -527,6 +527,7 @@
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Le Brusheo Hair PRO est-il adapté à mes cheveux ?",
             "content": "<p>Lors de la conception du Brusheo Hair PRO, nous avons veillé à ce qu'il convienne à tous les types de cheveux, quelle que soit leur longueur. Ce produit offre une flexibilité optimale pour tous les styles de cheveux.</p>"
@@ -534,6 +535,7 @@
         },
         "166442457738b23caf-1": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Comment utiliser le Brusheo Hair PRO ?",
             "content": "<p>Le Brusheo Hair PRO est conçu pour être extrêmement simple d'utilisation, permettant à chacun de le manipuler aisément. Un guide d'utilisation sera inclus dans votre colis pour faciliter votre expérience.</p>"
@@ -542,8 +544,8 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Que faire si le Brusheo Hair PRO ne répond pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+            "title": "Que faire si le Brusheo ne répond pas à mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
           }
         },
         "item_CkNyzw": {
