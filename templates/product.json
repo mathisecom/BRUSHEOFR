@@ -396,9 +396,9 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Trusted_by_3_000_Women_5.jpg",
+            "image": "shopify://shop_images/Trusted_by_3_000_Women_8.jpg",
             "alignment": "start",
-            "max_width": 400
+            "max_width": 500
           }
         },
         "liquid_z4JDnd": {
