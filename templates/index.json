@@ -450,7 +450,7 @@
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez le Brusheo Hair PRO sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre Brusheo Hair PRO vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
+            "content": "<p>Essayez le Brusheo sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre Brusheo vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
             "page": ""
           }
         },
@@ -464,6 +464,7 @@
         },
         "tab_AmybMM": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Charge Optimale",
             "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre Brusheo Hair Pro, nous vous recommandons de la charger en utilisant un dock de charge d'une puissance minimale de 20W (charge rapide).</p><p>L'utilisation d'un chargeur rapide permet non seulement de réduire le temps de charge, mais également d'assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu'il répond à cette exigence. Une charge adéquate contribue à maximiser l'efficacité de votre Brusheo Hair Pro et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
