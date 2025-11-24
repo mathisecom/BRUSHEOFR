@@ -255,10 +255,11 @@
         "item_FzPbzL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/89403352984710335298471.jpg",
             "column_size": "3",
             "title": "Anaïs D.",
             "heading_tag": "h4",
-            "content": "<p>Super produit, petit et compact. Je peux me coiffer n'importe où, même dans la voiture. Il rentre parfaitement dans mon sac et dans la boîte à gants de ma voiture. Meilleur achat de ma vie</p>",
+            "content": "<p>Nettoyage facile et sans effortPrise en main simple & manche extensibleGain de temps & efficacitéMoteur puissant & longue autonomie</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
