@@ -15,8 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_BRUSHEO.webp",
-            "mobile_image": "shopify://shop_images/new_banner_brusheo_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -346,6 +344,7 @@
         },
         "liquid_rrQQ4i": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n            <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Stock Faible, Bientôt en Rupture.</div>\n</div>\n          </div>\n          </div>\n        \n</div>"
           }
@@ -361,6 +360,7 @@
         },
         "liquid_LWpYwb": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div data-rapi-id=\"rapi_6408bc30292758\"></div>"
           }
@@ -385,20 +385,10 @@
             "payment_button_text_color": ""
           }
         },
-        "image_CE6DUh": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/badge_confianc_CTA_537da607-391b-4a45-8cac-65b2f6466cdd.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_dbf6ap": {
+        "liquid_KRHYCL": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_TnYh3k\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              \n\n<div class=\"order-timeline\">\n  <!-- Step 1 -->\n  <div class=\"timeline-step\">\n    <div class=\"icon-circle\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\" width=\"20\" height=\"20\">\n        <path d=\"M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z\"></path>\n      </svg>\n    </div>\n    <p class=\"date\" id=\"order-date\"><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">7 octobre</font></font></p>\n    <p class=\"status\" data-tooltip=\"La commande a été passée et est en cours de préparation pour l'expédition.\">Commandée</p>\n  </div>\n\n  <div class=\"line\"></div>\n\n  <!-- Step 2 -->\n  <div class=\"timeline-step\">\n    <div class=\"icon-circle\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" width=\"20\" height=\"20\">\n        <path d=\"M50.7 58.5L0 160l208 0 0-128L93.7 32C75.5 32 58.9 42.3 50.7 58.5zM240 160l208 0L397.3 58.5C389.1 42.3 372.5 32 354.3 32L240 32l0 128zm208 32L0 192 0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-224z\"></path>\n      </svg>\n    </div>\n    <p class=\"date\" id=\"shipped-date\"><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">8 octobre</font></font></p>\n    <p class=\"status\" data-tooltip=\"Votre commande a été expédiée et est en route vers vous.\">Expédiée</p>\n  </div>\n\n  <div class=\"line\"></div>\n\n  <!-- Step 3 -->\n  <div class=\"timeline-step\">\n    <div class=\"icon-circle\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" width=\"20\" height=\"20\">\n        <path d=\"M48 0C21.5 0 0 21.5 0 48L0 368c0 26.5 21.5 48 48 48l16 0c0 53 43 96 96 96s96-43 96-96l128 0c0 53 43 96 96 96s96-43 96-96l32 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l0-64 0-32 0-18.7c0-17-6.7-33.3-18.7-45.3L512 114.7c-12-12-28.3-18.7-45.3-18.7L416 96l0-48c0-26.5-21.5-48-48-48L48 0zM416 160l50.7 0L544 237.3l0 18.7-128 0 0-96zM112 416a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm368-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z\"></path>\n      </svg>\n    </div>\n    <p class=\"date\" id=\"delivered-date\"><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">16 octobre</font></font></p>\n    <p class=\"status\" data-tooltip=\"Votre commande a été livrée. Profitez de votre achat !\">Livrée</p>\n  </div>\n</div>\n\n<script>\n  function formatDate(date) {\n    const options = { day: 'numeric', month: 'short' };\n    return date.toLocaleDateString('en-US', options);\n  }\n\n  const currentDate = new Date();\n  const orderDate = currentDate;\n  const shippedDate = new Date(currentDate);\n  shippedDate.setDate(currentDate.getDate() + 1);\n  const deliveredDate = new Date(shippedDate);\n  deliveredDate.setDate(shippedDate.getDate() + 8);\n\n  document.getElementById('order-date').textContent = formatDate(orderDate);\n  document.getElementById('shipped-date').textContent = formatDate(shippedDate);\n  document.getElementById('delivered-date').textContent = formatDate(deliveredDate);\n</script>\n\n<style>\n  .order-timeline {\n    display: flex;\n    justify-content: space-between;\n    margin: 20px 0;\n  }\n\n  .timeline-step {\n    position: relative;\n    width: 100px;\n    text-align: center;\n  }\n\n  .icon-circle {\n    width: 40px;\n    height: 40px;\n    background-color: black;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin: 0 auto 10px;\n  }\n\n  .icon-circle svg {\n    fill: white;\n  }\n\n  .date {\n    font-weight: bold;\n    color: #333;\n    margin-bottom: 4px;\n  }\n\n  .status {\n    font-size: 14px;\n    color: #666;\n    position: relative;\n    cursor: pointer;\n  }\n\n  .status[data-tooltip]:hover::after {\n    content: attr(data-tooltip);\n    position: absolute;\n    bottom: -35px;\n    left: 50%;\n    transform: translateX(-50%);\n    background-color: black;\n    color: white;\n    font-size: 12px;\n    padding: 5px 10px;\n    border-radius: 5px;\n    white-space: nowrap;\n    z-index: 10;\n  }\n\n  .line {\n    flex: 1;\n    height: 2px;\n    background-color: black;\n    margin: 20px 10px;\n  }\n</style>\n            </div></div>"
+            "liquid": ""
           }
         }
       },
@@ -411,8 +401,7 @@
         "liquid_LWpYwb",
         "image_gja7XC",
         "buy_buttons_L6EQy9",
-        "image_CE6DUh",
-        "liquid_dbf6ap"
+        "liquid_KRHYCL"
       ],
       "name": "Featured product",
       "settings": {
