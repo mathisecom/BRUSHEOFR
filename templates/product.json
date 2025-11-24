@@ -119,7 +119,7 @@
           "settings": {
             "text": "Résultat Avant/Après",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#092b48",
             "gradient": ""
           }
         }
@@ -188,7 +188,7 @@
           "settings": {
             "text": "Pourquoi Choisir Brusheo?",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#092b48",
             "gradient": ""
           }
         }
