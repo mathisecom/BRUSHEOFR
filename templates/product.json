@@ -392,12 +392,14 @@
         },
         "liquid_z4JDnd": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div data-rapi-id=\"rapi_6408bc30292758\"></div>"
           }
         },
         "image_wCptzm": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_1.jpg",
             "alignment": "start",
@@ -414,14 +416,6 @@
             "payment_button_background": "#000000",
             "payment_button_text_color": "#000000"
           }
-        },
-        "image_TQQamn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/badge_confianc_CTA_537da607-391b-4a45-8cac-65b2f6466cdd.png",
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -432,8 +426,7 @@
         "image_W63jCx",
         "liquid_z4JDnd",
         "image_wCptzm",
-        "buy_buttons",
-        "image_TQQamn"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -479,21 +472,12 @@
             "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
             "page": ""
           }
-        },
-        "tab_c9HDzx": {
-          "type": "tab",
-          "settings": {
-            "title": "Charge Optimale",
-            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre Brusheo Hair Pro, nous vous recommandons de la charger en utilisant un dock de charge d'une puissance minimale de 20W (charge rapide).</p><p>L'utilisation d'un chargeur rapide permet non seulement de réduire le temps de charge, mais également d'assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu'il répond à cette exigence. Une charge adéquate contribue à maximiser l'efficacité de votre Brusheo Hair Pro et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_kMyHT7",
         "tab_QL4Eq4",
-        "tab_RGiNq8",
-        "tab_c9HDzx"
+        "tab_RGiNq8"
       ],
       "name": "Tabs",
       "settings": {
@@ -515,6 +499,7 @@
       "blocks": {
         "item_DW9X8x": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Le Brusheo Hair PRO est-il adapté à mes cheveux ?",
             "content": "<p>Lors de la conception du Brusheo Hair PRO, nous avons veillé à ce qu'il convienne à tous les types de cheveux, quelle que soit leur longueur. Ce produit offre une flexibilité optimale pour tous les styles de cheveux.</p>"
@@ -522,6 +507,7 @@
         },
         "item_rh3N7W": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Comment utiliser le Brusheo Hair PRO ?",
             "content": "<p>Le Brusheo Hair PRO est conçu pour être extrêmement simple d'utilisation, permettant à chacun de le manipuler aisément. Un guide d'utilisation sera inclus dans votre colis pour faciliter votre expérience.</p>"
@@ -530,8 +516,8 @@
         "item_ijyCUR": {
           "type": "item",
           "settings": {
-            "title": "Que faire si le Brusheo Hair PRO ne répond pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+            "title": "Que faire si le Brusheo ne répond pas à mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo !</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
           }
         },
         "item_rqJDrR": {
