@@ -283,7 +283,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2024-06-13_at_12.49.42.webp",
             "column_size": "3",
-            "title": "Rebecca E.",
+            "title": "Cédric E.",
             "heading_tag": "h4",
             "content": "<p>J’adore ! Pour quelqu’un qui aime avoir une maison impeccable, c’est un vrai bonheur. Super qualité, je recommande !</p>",
             "link_url": "",
@@ -307,11 +307,11 @@
         "item_ibmNAX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2024-06-13_at_12.49.52.webp",
+            "image": "shopify://shop_images/Nouveau_projet_1.webp",
             "column_size": "3",
-            "title": "Cynthia S.",
+            "title": "Marc S.",
             "heading_tag": "h4",
-            "content": "<p>Je suis bluffé par l’efficacité de cette brosse électrique. Elle enlève la saleté sans effort, c’est super satisfaisant à regarder !<br/></p>",
+            "content": "<p>Franchement, ce nettoyeur m’a changé la vie. C’est comme avoir un assistant nettoyage à la maison. Très pratique !<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
