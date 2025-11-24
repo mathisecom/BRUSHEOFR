@@ -285,7 +285,7 @@
             "column_size": "3",
             "title": "Rebecca E.",
             "heading_tag": "h4",
-            "content": "<p>Après une séance de sport, un passage rapide avec mon Brusheo et mes cheveux sont comme neufs. C'est incroyable comme il rafraîchit instantanément ma coiffure, parfait pour aller directement d'une séance de sport à une sortie entre amis.</p>",
+            "content": "<p>J’adore ! Pour quelqu’un qui aime avoir une maison impeccable, c’est un vrai bonheur. Super qualité, je recommande !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -294,7 +294,7 @@
         "item_zHzkxN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ines.webp",
+            "image": "shopify://shop_images/fVl_SWQHX.jpg",
             "column_size": "3",
             "title": "Inès T.",
             "heading_tag": "h4",
@@ -376,9 +376,14 @@
         },
         "liquid_Kz6R6N": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_rrQQ4i\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n            <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Stock Faible, Bientôt en Rupture.</div>\n</div>\n          </div>\n          </div>\n        \n</div>\n            </div></div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"main-product__block main-product__block-custom_liquid\"> \n      <div class=\"m-product-text\">\n        <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap;\">\n\n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n            <svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"#0A2B48\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 8px;\">\n              <path d=\"M7.629 13.233L4.4 10.004l-1.4 1.4 4.629 4.629 9-9-1.4-1.4z\"/>\n            </svg>\n            <div class=\"productBulletsItemText body\">Nettoyage facile et sans effort</div>\n          </div>\n\n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n            <svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"#0A2B48\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 8px;\">\n              <path d=\"M7.629 13.233L4.4 10.004l-1.4 1.4 4.629 4.629 9-9-1.4-1.4z\"/>\n            </svg>\n            <div class=\"productBulletsItemText body\">Prise en main simple & manche extensible</div>\n          </div>\n\n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n            <svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"#0A2B48\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 8px;\">\n              <path d=\"M7.629 13.233L4.4 10.004l-1.4 1.4 4.629 4.629 9-9-1.4-1.4z\"/>\n            </svg>\n            <div class=\"productBulletsItemText body\">Gain de temps & efficacité</div>\n          </div>\n\n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n            <svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"#0A2B48\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 8px;\">\n              <path d=\"M7.629 13.233L4.4 10.004l-1.4 1.4 4.629 4.629 9-9-1.4-1.4z\"/>\n            </svg>\n            <div class=\"productBulletsItemText body\">Moteur puissant & longue autonomie</div>\n          </div>\n\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_bELwWB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__block product__block--custom_liquid\">\n            <style>\n  #people-viewing {\n    position: relative;\n    padding-left: 30px; /* Ajout d'un espace pour l'effet lumineux */\n    font-size: 16px;\n    font-weight: bold;\n  }\n\n  #people-viewing::before {\n    content: '';\n    position: absolute;\n    left: 0;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #f4af29;\n    box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n    animation: glowing 3.5s infinite; /* Animation lumineuse */\n  }\n\n  /* Animation de l'effet lumineux */\n  @keyframes glowing {\n    0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n    100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n  }\n</style>\n\n<div id=\"people-viewing\">Il ne reste plus que <span id=\"stock-count\">3</span> en stock.</div>\n\n<script>\n  // Fonction pour modifier le nombre de stock après 2 secondes\n  function changeStockNumber() {\n    setTimeout(() => {\n      document.getElementById(\"stock-count\").textContent = \"3\";\n    }, 2000);\n  }\n\n  // Utilisation de l'Intersection Observer pour détecter quand l'élément est visible\n  const observer = new IntersectionObserver((entries, observer) => {\n    entries.forEach(entry => {\n      if (entry.isIntersecting) { \n        changeStockNumber(); // Déclenchement lorsque visible\n        observer.disconnect(); // Arrêt de l'observation après le premier déclenchement\n      }\n    });\n  }, { threshold: 0.5 }); // Déclenchement quand 50% de l’élément est visible\n\n  observer.observe(document.getElementById(\"people-viewing\"));\n</script>\n</div>"
           }
         },
         "image_W63jCx": {
@@ -429,6 +434,7 @@
         "title",
         "price",
         "liquid_Kz6R6N",
+        "liquid_bELwWB",
         "image_W63jCx",
         "liquid_z4JDnd",
         "image_wCptzm",
